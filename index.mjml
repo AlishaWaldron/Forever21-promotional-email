@@ -1,0 +1,638 @@
+<mjml lang="en">
+  <mj-head> 
+  
+  <mj-attributes>
+  <mj-all font-family="Arial Narrow, Arial, Helvetica, sans-serif;">
+  <mj-section padding="0">
+  </mj-attributes>
+  <mj-title>Forever21</mj-title>
+
+    <mj-style>*{ box-sizing: border-box; } 
+
+    @media only screen and (max-width: 480px){
+     
+
+      }
+      </mj-style>
+
+    <mj-style inline="inline">
+      .content-bg{background-color:#ffffff;}
+
+      .link-color{
+        color: #5291de;
+      }
+
+      .color-link{
+        color: #222222;
+        text-decoration: none;
+      }
+      .color-here{
+        color: #222222;
+      }
+      
+
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="white">
+  <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden;">
+      Oh Hi There! Nice to meet you 💛 We're so hyped you're here!
+      NEW ARRIVALS
+
+
+      </div>
+ 
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+      <div style="display: none; max-height: 0px; overflow: hidden;">
+      &#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;
+      </div>
+      </mj-raw>
+  
+  
+      <mj-section padding="0" background-color="#ffffff">
+  <mj-column>
+    <mj-image padding-bottom="0" padding-top="30px"
+      href="https://www.forever21.com/?%243p=e_et&utm_content=F21&utm_source=salesforcemarketingcloud&utm_medium=email&utm_campaign=PROMO_20230122_NEW_NewArrivals_NewSubs_B&sfmc_j=30412&sfmc_s=59711912&sfmc_l=340&sfmc_jb=21011&sfmc_mid=515011048&sfmc_u=6286601&et_rid=59711912&utm_kxconfid=uhqci99z0&mi_u=59711912&bc_id=59711912&_branch_match_id=865954786076366586&_branch_referrer=H4sIAAAAAAAAA02PS0%2BEMBSFfw0soQ%2FAwaQxY%2BLsnDG6cNmUUqDSUuxjMP56y%2BDoJF3c79xzTm4H72d3n%2BedseIsLIIZm%2BdMyWnM8fyQoALPRFDh0zgaK3s5MUWDVWRYgwneJ%2BgQ37Is2X8FNzpqafCacjN5MXlyQPDCzgTLBXFMCRcDXGhmR%2BHl1HNlQnvxaNHKoElcSbWVMD0z2U%2Fk5fX0fKIIIAwgQvT49E6PYtlbK89MuXV%2BC42jj6nrNKcfBIMCog0cKes7COsrK4IL8OtrCIIAwo20bEkJy8ig2G1SIBXaVRWAqfDUrvtr1Xrd%2BBU%2F2UU1DJ9c1vU3SLWMmT9Tw%2BlN5gfiT%2B2%2BcgEAAA%3D%3D"
+      align="center"
+      src="https://i.postimg.cc/VsDxCkct/forever21.png"
+      alt="forever21.logo"/>
+  </mj-column>
+</mj-section>
+
+<mj-section padding="0" background-color="#ffffff">
+  <mj-column width="100%">
+    <mj-divider
+      border-width="1px"
+      padding-left="0"
+      padding-right="0"
+      border-style="solid"
+      padding-bottom="0"
+      border-color="#000"
+    />
+  </mj-column>
+</mj-section>
+
+<mj-section background-color="#ffffff" padding-top="0" padding-bottom="0">
+
+
+  <mj-column>
+    <mj-navbar hamburger="hamburger" >
+      <mj-navbar-link
+        href="https://www.forever21.com/us/shop/catalog/category/f21/women-new-arrivals-clothing?utm_content=nvapp&utm_source=salesforcemarketingcloud&utm_medium=email&utm_campaign=Triggered_HolidayWelcomeWNKD_T1&sfmc_j=22742&sfmc_s=59711912&sfmc_l=340&sfmc_jb=2094&sfmc_mid=515011048&sfmc_u=4571164&et_rid=59711912&utm_kxconfid=uhqci99z0&mi_u=59711912&bc_id=59711912"
+        color="#000"
+        font-weight="600"
+        font-family="Arial Narrow, Arial, Helvetica, sans-serif;"
+        font-size="15px"
+        >New Arrivals&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;</mj-navbar-link
+      >
+      <mj-navbar-link
+        href="https://www.forever21.com/us/shop/catalog/category/f21/women-new-arrivals-clothing?utm_content=nvapp&utm_source=salesforcemarketingcloud&utm_medium=email&utm_campaign=PROMO_20230122_NEW_NewArrivals_NewSubs_B&sfmc_j=30412&sfmc_s=59711912&sfmc_l=340&sfmc_jb=21011&sfmc_mid=515011048&sfmc_u=6286603&et_rid=59711912&utm_kxconfid=uhqci99z0&mi_u=59711912&bc_id=59711912"
+        color="#000"
+        font-weight="600"
+        font-family="Arial Narrow, Arial, Helvetica, sans-serif;"
+        font-size="15px"
+        >Women&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;</mj-navbar-link
+      >
+      <mj-navbar-link
+        href="https://www.forever21.com/us/shop/catalog/category/plus/plus-size-new-arrivals?utm_content=nvplus&utm_source=salesforcemarketingcloud&utm_medium=email&utm_campaign=Triggered_HolidayWelcomeWNKD_T1&sfmc_j=22742&sfmc_s=59711912&sfmc_l=340&sfmc_jb=2094&sfmc_mid=515011048&sfmc_u=4571165&et_rid=59711912&utm_kxconfid=uhqci99z0&mi_u=59711912&bc_id=59711912"
+        color="#000"
+        font-weight="600"
+        font-family="Arial Narrow, Arial, Helvetica, sans-serif;"
+        font-size="15px"
+        >Plus&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;</mj-navbar-link
+      >
+      <mj-navbar-link
+        href="https://www.forever21.com/us/shop/catalog/category/f21/women-new-arrivals-clothing?utm_content=nvapp&utm_source=salesforcemarketingcloud&utm_medium=email&utm_campaign=PROMO_20230122_NEW_NewArrivals_NewSubs_B&sfmc_j=30412&sfmc_s=59711912&sfmc_l=340&sfmc_jb=21011&sfmc_mid=515011048&sfmc_u=6286603&et_rid=59711912&utm_kxconfid=uhqci99z0&mi_u=59711912&bc_id=59711912"
+        color="#000"
+        font-weight="600"
+        font-family="Arial Narrow, Arial, Helvetica, sans-serif;"
+        font-size="15px"
+        >Men&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+      </mj-navbar-link>
+
+      <mj-navbar-link
+        href="https://www.forever21.com/us/shop/catalog/category/f21/women-new-arrivals-clothing?utm_content=nvapp&utm_source=salesforcemarketingcloud&utm_medium=email&utm_campaign=PROMO_20230122_NEW_NewArrivals_NewSubs_B&sfmc_j=30412&sfmc_s=59711912&sfmc_l=340&sfmc_jb=21011&sfmc_mid=515011048&sfmc_u=6286603&et_rid=59711912&utm_kxconfid=uhqci99z0&mi_u=59711912&bc_id=59711912"
+        color="#000"
+        font-weight="600"
+        font-family="Arial Narrow, Arial, Helvetica, sans-serif;"
+        font-size="15px"
+        >Girls&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;</mj-navbar-link
+      >
+      <mj-navbar-link
+        href="https://www.forever21.com/us/shop/catalog/category/f21/women-new-arrivals-clothing?utm_content=nvapp&utm_source=salesforcemarketingcloud&utm_medium=email&utm_campaign=PROMO_20230122_NEW_NewArrivals_NewSubs_B&sfmc_j=30412&sfmc_s=59711912&sfmc_l=340&sfmc_jb=21011&sfmc_mid=515011048&sfmc_u=6286603&et_rid=59711912&utm_kxconfid=uhqci99z0&mi_u=59711912&bc_id=59711912"
+        color="#000"
+        font-weight="600"
+        font-family="Arial Narrow, Arial, Helvetica, sans-serif;"
+        font-size="15px"
+        >Sale&zwnj;&nbsp;&zwnj;&nbsp;</mj-navbar-link
+      >
+    </mj-navbar>
+  </mj-column>
+</mj-section>
+
+<mj-section padding="0" background-color="#ffffff" >
+      <mj-column width="100%">
+        <mj-divider border-width="1px" padding-left="0" padding-right="0" padding="0"
+        border-style="solid" padding-top="0" border-color="#000" />
+      </mj-column>
+    </mj-section>
+
+      <mj-section padding="4px" padding-top="5px" padding-bottom="5px"
+      background-color="#f7ecb2">
+           <mj-column>
+           <mj-navbar padding-top="0" >
+           <mj-navbar-link
+           href="
+           https://www.forever21.com/?%243p=e_et&utm_content=contentnvshippingbanner&utm_source=salesforcemarketingcloud&utm_medium=email&utm_campaign=PROMO_20230122_NEW_NewArrivals_NewSubs_B&sfmc_j=30412&sfmc_s=59711912&sfmc_l=340&sfmc_jb=21011&sfmc_mid=515011048&sfmc_u=6286612&et_rid=59711912&utm_kxconfid=uhqci99z0&mi_u=59711912&bc_id=59711912&_branch_match_id=865954786076366586&_branch_referrer=H4sIAAAAAAAAA02PX0%2FDIBTFP037uAHt5mpCzEz0zc3og4%2BE0tsWBxT50xo%2FvXTddAkJ95z7OyfQh2D9%2FXrdDg5GcASvuLUrJc1pXdiHjJSFpcAg5GkcnOyk4YpFp2g%2FB7Nin5HndKZpWv1XiEEnL49BMzGYACbQy21G30trpelqbgy4M%2BOH6ARQzxX4VCJAc3eCkCChhticGQ2NjJqmlVRLMdeWy87Q17fjy5ERRAqECWGHpw92gGnvnBy58vP8HmvPHnPfasE%2BaYFKTBbh6aa6w7i6akWLEl24mhKMMF6Ulg3d4E3SqNwtVqRbsttuUxQCc%2FP%2BWjW%2F7vSdPtwmN%2FZfQlbVD8q1TJk%2FqBbsJvMLi07qboYBAAA%3D"
+            color="#333333"
+            font-weight="700"
+            font-family=" Arial, Helvetica, sans-serif;"
+            font-size="12px"
+            padding-bottom="0"
+            padding-top="0"
+          >
+            Free standard shipping on orders $50+
+             
+          </mj-navbar-link>
+          </mj-column>
+      </mj-section>
+
+
+      <mj-raw> 
+      <!--top section--> 
+      </mj-raw>
+
+  
+      <!--end of top section-->
+
+      <mj-section padding="0">
+      <mj-column>
+      <mj-image
+      href="https://www.forever21.com/?%243p=e_et&utm_content=content_welcome1_hero&utm_source=salesforcemarketingcloud&utm_medium=email&utm_campaign=Triggered_HolidayWelcomeWNKD_T1&sfmc_j=22742&sfmc_s=59711912&sfmc_l=340&sfmc_jb=2094&sfmc_mid=515011048&sfmc_u=4571170&et_rid=59711912&utm_kxconfid=uhqci99z0&mi_u=59711912&bc_id=59711912&_branch_match_id=865954786076366586&_branch_referrer=H4sIAAAAAAAAA01Pa2uFIBj%2BNfWx0ozWQMZgjMFgnw6cj%2BKxt3J5m%2Bna9utnp3YBQZ%2Fr%2BzqF4Jbbshysh3fwGBXcuUJJM5e1u8swqR0FBiFPT%2BvlKA1XLHpFpy2Y1fcZfkxnXdfir0JYnbg8Bs2ENQFMoMfNVlBJBcQm8PbqWGz0AujCFSypQoDmfoYgzSiUjf3Vo6GXUdMkSbXXcu24HA09pZ1G8NCzJ6tkzz%2FP%2B4Dzy%2FMDO6F8GbRgrxTjluAdLLTpWoQ6dGBFa1IdvgvFVUd2oGVPG9RUCFXkZqciJU2KtlUOgflN%2F2nadpo%2F0ieHxMbpTciu%2B6pyLVPm13QR7F%2FmG6CatRt6AQAA"
+      src="https://i.postimg.cc/CLncxhMS/two-people.jpg"
+      align="center"
+      padding="2px 0 0"
+      alt="man-and-women-in-fashion"
+      >
+      </mj-column>
+      </mj-section>
+      <!--end of two people image-->
+
+      <mj-section padding="0">
+      <mj-column>
+      <mj-image
+      href="https://www.forever21.com/?%243p=e_et&utm_content=content_welcome1_hero&utm_source=salesforcemarketingcloud&utm_medium=email&utm_campaign=Triggered_HolidayWelcomeWNKD_T1&sfmc_j=22742&sfmc_s=59711912&sfmc_l=340&sfmc_jb=2094&sfmc_mid=515011048&sfmc_u=4571170&et_rid=59711912&utm_kxconfid=uhqci99z0&mi_u=59711912&bc_id=59711912&_branch_match_id=865954786076366586&_branch_referrer=H4sIAAAAAAAAA01Pa2uFIBj%2BNfWx0ozWQMZgjMFgnw6cj%2BKxt3J5m%2Bna9utnp3YBQZ%2Fr%2BzqF4Jbbshysh3fwGBXcuUJJM5e1u8swqR0FBiFPT%2BvlKA1XLHpFpy2Y1fcZfkxnXdfir0JYnbg8Bs2ENQFMoMfNVlBJBcQm8PbqWGz0AujCFSypQoDmfoYgzSiUjf3Vo6GXUdMkSbXXcu24HA09pZ1G8NCzJ6tkzz%2FP%2B4Dzy%2FMDO6F8GbRgrxTjluAdLLTpWoQ6dGBFa1IdvgvFVUd2oGVPG9RUCFXkZqciJU2KtlUOgflN%2F2nadpo%2F0ieHxMbpTciu%2B6pyLVPm13QR7F%2FmG6CatRt6AQAA"
+      src="https://i.postimg.cc/HkqDkv1P/20-off.jpg"
+      align="center"  
+      alt="20%-off"    
+      padding="2px 0 0">
+      </mj-column>
+      </mj-section>
+      <!--end of 20% 0ff-->
+
+      <mj-section>
+      <mj-column>
+      <mj-image 
+      href="https://www.forever21.com/?%243p=e_et&utm_content=content_welcome1_hero&utm_source=salesforcemarketingcloud&utm_medium=email&utm_campaign=Triggered_HolidayWelcomeWNKD_T1&sfmc_j=22742&sfmc_s=59711912&sfmc_l=340&sfmc_jb=2094&sfmc_mid=515011048&sfmc_u=4571170&et_rid=59711912&utm_kxconfid=uhqci99z0&mi_u=59711912&bc_id=59711912&_branch_match_id=865954786076366586&_branch_referrer=H4sIAAAAAAAAA01Pa2uFIBj%2BNfWx0ozWQMZgjMFgnw6cj%2BKxt3J5m%2Bna9utnp3YBQZ%2Fr%2BzqF4Jbbshysh3fwGBXcuUJJM5e1u8swqR0FBiFPT%2BvlKA1XLHpFpy2Y1fcZfkxnXdfir0JYnbg8Bs2ENQFMoMfNVlBJBcQm8PbqWGz0AujCFSypQoDmfoYgzSiUjf3Vo6GXUdMkSbXXcu24HA09pZ1G8NCzJ6tkzz%2FP%2B4Dzy%2FMDO6F8GbRgrxTjluAdLLTpWoQ6dGBFa1IdvgvFVUd2oGVPG9RUCFXkZqciJU2KtlUOgflN%2F2nadpo%2F0ieHxMbpTciu%2B6pyLVPm13QR7F%2FmG6CatRt6AQAA"
+      src="https://i.postimg.cc/WzbxHQ0t/find-store.jpg"
+      alt="find-a-store-logo"
+      width="300px"
+      padding="10px"
+      align="center">
+      </mj-column>
+
+
+      <mj-column>
+      <mj-image 
+      href="https://www.forever21.com/?%243p=e_et&utm_content=content_welcome1_hero&utm_source=salesforcemarketingcloud&utm_medium=email&utm_campaign=Triggered_HolidayWelcomeWNKD_T1&sfmc_j=22742&sfmc_s=59711912&sfmc_l=340&sfmc_jb=2094&sfmc_mid=515011048&sfmc_u=4571170&et_rid=59711912&utm_kxconfid=uhqci99z0&mi_u=59711912&bc_id=59711912&_branch_match_id=865954786076366586&_branch_referrer=H4sIAAAAAAAAA01Pa2uFIBj%2BNfWx0ozWQMZgjMFgnw6cj%2BKxt3J5m%2Bna9utnp3YBQZ%2Fr%2BzqF4Jbbshysh3fwGBXcuUJJM5e1u8swqR0FBiFPT%2BvlKA1XLHpFpy2Y1fcZfkxnXdfir0JYnbg8Bs2ENQFMoMfNVlBJBcQm8PbqWGz0AujCFSypQoDmfoYgzSiUjf3Vo6GXUdMkSbXXcu24HA09pZ1G8NCzJ6tkzz%2FP%2B4Dzy%2FMDO6F8GbRgrxTjluAdLLTpWoQ6dGBFa1IdvgvFVUd2oGVPG9RUCFXkZqciJU2KtlUOgflN%2F2nadpo%2F0ieHxMbpTciu%2B6pyLVPm13QR7F%2FmG6CatRt6AQAA"
+      src="https://i.postimg.cc/K8LpJZCJ/shop-now.jpg"
+      alt="shop-now-logo"
+      width="300px"
+      padding="10px" 
+      align="center">
+      </mj-column>
+      </mj-section>
+      <!--end of two column body-->
+
+
+    <mj-section padding="0">
+    <mj-column>
+    <mj-text align="center" font-family="Arial, Helvetica, sans-serif;" font-size="20px">
+      USE CODE <b>EMLS193380037471</b> ONLINE
+        OR SHOW BARCODE IN-STORE
+    </mj-text>
+    </mj-column>
+  
+    </mj-section>
+
+    <mj-section padding="0">
+    <mj-column>
+    <mj-image
+    src="https://i.postimg.cc/TPn8LjR2/barcode.png"
+    alt="barcode"
+    align="center"
+    width="400px"
+    height="120px"
+    padding-bottom="50px">
+    
+    </mj-column>
+    </mj-section>
+
+    <!--start of image column-->
+    <mj-section padding-bottom="0">
+    <mj-column>
+      <mj-image
+      href="https://www.forever21.com/us/shop/catalog/category/f21/women-new-arrivals-clothing?%243p=e_et&%24android_deeplink_path=f21%3A%2F%2Fdeeplink%2Ftab%2Fshop%3Fcategory%3Dwomen_new_arrivals_clothing&%24ios_deeplink_path=f21%3A%2F%2Fdeeplink%2Ftab%2Fshop%3Fcategory%3Dwomen_new_arrivals_clothing&utm_content=content_welcome1_3&utm_source=salesforcemarketingcloud&utm_medium=email&utm_campaign=Triggered_HolidayWelcomeWNKD_T1&sfmc_j=22742&sfmc_s=59711912&sfmc_l=340&sfmc_jb=2094&sfmc_mid=515011048&sfmc_u=4571173&et_rid=59711912&utm_kxconfid=uhqci99z0&mi_u=59711912&bc_id=59711912&_branch_match_id=865954786076366586&_branch_referrer=H4sIAAAAAAAAA7VRy2rDMBD8mviWxJIdUhdEKYRSKPQUyFEo8tpWo1clOW769V3HcdMfKAjtc2ZWqy4lHx%2FX68YFOEOgZCW8X2llT%2BvCPy1oWXgGHFKGrguqVVZo3gfNuhG4KJ4X9AXPMAyrO4V0BnN9xCt2zqORIgnt2smD1oULug0lI9QZsEsLw1KEoM5Cx6XULnXKtqOosHVwquY1gB%2FH4l6kjo3QWXuuoJvEcdYs7krF7qrBUYPPGvyvhnLx%2F%2Fj7ZLh0NoFN7Gb5ABp3BIQX13J0fZDAotAQcYsSjAgnSIhGlr6%2B9hioVW8YlpSeOIXxQrWW7fFbWghQ81enVS0uh4n98P6243uSxcZI%2FsEo3ZZ0CiLbVFtCKnKLNSvK%2FNZ3ZDSvyikwqmYbsskJycuHKdWzcoPQbZFB4mGsz0zjTKcvfGGD2b77lKqqvvPMKMT8Nh0l%2F4P5AcOYOrF9AgAA"
+      src="https://i.postimg.cc/q71JFzgq/lady-pink.jpg"
+      align="center"
+      alt="woman-in-pink-clothing-fashion"
+      padding="0">
+      
+    </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="0" padding-bottom="0">
+    <mj-column>
+      <mj-image
+      href="https://www.forever21.com/us/forever21collaborations.html?utm_content=content_welcome1_5&utm_source=salesforcemarketingcloud&utm_medium=email&utm_campaign=Triggered_HolidayWelcomeWNKD_T1&sfmc_j=22742&sfmc_s=59711912&sfmc_l=340&sfmc_jb=2094&sfmc_mid=515011048&sfmc_u=4571175&et_rid=59711912&utm_kxconfid=uhqci99z0&mi_u=59711912&bc_id=59711912"
+      src="https://i.postimg.cc/SRv1tjyt/lady-blue.jpg"
+      align="center"
+      padding="0"
+      alt="woman-in-blue-furr-coat"
+      >
+    </mj-column>
+
+
+    </mj-section>    
+    <mj-section padding-top="0" padding-bottom="0">
+    <mj-column>
+      <mj-image
+      href="https://www.forever21.com/us/forever21collaborations.html?utm_content=content_welcome1_5&utm_source=salesforcemarketingcloud&utm_medium=email&utm_campaign=Triggered_HolidayWelcomeWNKD_T1&sfmc_j=22742&sfmc_s=59711912&sfmc_l=340&sfmc_jb=2094&sfmc_mid=515011048&sfmc_u=4571175&et_rid=59711912&utm_kxconfid=uhqci99z0&mi_u=59711912&bc_id=59711912"
+      src="https://i.postimg.cc/rF7Y1dZD/lady-green.jpg"
+      align="center"
+      padding="0"
+      alt="woman-in-green-long-furr-coat"
+      >
+    </mj-column>
+
+
+    </mj-section>    
+    <mj-section padding-top="0">
+    <mj-column>
+      <mj-image
+      href="https://www.forever21.com/us/forever21collaborations.html?utm_content=content_welcome1_5&utm_source=salesforcemarketingcloud&utm_medium=email&utm_campaign=Triggered_HolidayWelcomeWNKD_T1&sfmc_j=22742&sfmc_s=59711912&sfmc_l=340&sfmc_jb=2094&sfmc_mid=515011048&sfmc_u=4571175&et_rid=59711912&utm_kxconfid=uhqci99z0&mi_u=59711912&bc_id=59711912/"
+      src="https://i.postimg.cc/QdWwwgKg/download.jpg"
+      align="center"
+      padding="0"
+      alt="download-app"
+      >
+    </mj-column>
+    </mj-section>    
+    <!--start of image column-->
+
+    <mj-section css-class="icon-table">
+    <mj-column>
+    <mj-image
+      src="https://i.postimg.cc/LXSczqXt/bestie.jpg"
+      align="center"
+      padding="0"
+      alt="how-can-we-help-text"
+      >
+
+    </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="0" padding-bottom="0" css-class="icon-table">
+    <mj-group>
+    <mj-column>
+      <mj-image
+      href="https://www.forever21.com/?utm_content=emailfooter_appdownload&utm_source=salesforcemarketingcloud&utm_medium=email&utm_campaign=Triggered_HolidayWelcomeWNKD_T1&sfmc_j=22742&sfmc_s=59711912&sfmc_l=340&sfmc_jb=2094&sfmc_mid=515011048&sfmc_u=4571184&et_rid=59711912&utm_kxconfid=uhqci99z0&mi_u=59711912&bc_id=59711912&_branch_match_id=865954786076366586&_branch_referrer=H4sIAAAAAAAAA02PS2%2FDIBCE%2F42PsaFYCZVQLz1UqpRTpBwRgbVDDKzLI338%2BuI4rXKcmW9Gu%2Bec5%2FTctgNGuEKkZKPmeeNsmNo5okcJXlknq2nwMzhU5qVkLzWGDCGLWzogZoiPTLMwCUvUIJJykOq8rmycINswaodlZTwYW%2Fw6czO08rOyYxCHaMcRIhj5hs4a9X0Ep9HDcf%2F%2BKg%2BkSYPX8iIo3TK6iiR6viWEk7t24ol1d%2B4kaMfZKrw1oid9R0jHdqtVBOtrdccayDIu%2Bd%2FSctP0Vd8dqlvOH9py%2FtM13tbOP3TS8qHzCx7dmZJTAQAA"
+      src="https://i.postimg.cc/WzWxLX78/icon1.jpg"
+      padding="0"
+      width="200px"
+      height="140px"
+      alt="gift-cards-icon"
+      >
+
+    </mj-column>
+    <mj-column>
+      <mj-image
+      href="https://www.forever21.com/?utm_content=emailfooter_appdownload&utm_source=salesforcemarketingcloud&utm_medium=email&utm_campaign=Triggered_HolidayWelcomeWNKD_T1&sfmc_j=22742&sfmc_s=59711912&sfmc_l=340&sfmc_jb=2094&sfmc_mid=515011048&sfmc_u=4571184&et_rid=59711912&utm_kxconfid=uhqci99z0&mi_u=59711912&bc_id=59711912&_branch_match_id=865954786076366586&_branch_referrer=H4sIAAAAAAAAA02PS2%2FDIBCE%2F42PsaFYCZVQLz1UqpRTpBwRgbVDDKzLI338%2BuI4rXKcmW9Gu%2Bec5%2FTctgNGuEKkZKPmeeNsmNo5okcJXlknq2nwMzhU5qVkLzWGDCGLWzogZoiPTLMwCUvUIJJykOq8rmycINswaodlZTwYW%2Fw6czO08rOyYxCHaMcRIhj5hs4a9X0Ep9HDcf%2F%2BKg%2BkSYPX8iIo3TK6iiR6viWEk7t24ol1d%2B4kaMfZKrw1oid9R0jHdqtVBOtrdccayDIu%2Bd%2FSctP0Vd8dqlvOH9py%2FtM13tbOP3TS8qHzCx7dmZJTAQAA"
+      src="https://i.postimg.cc/vHTpLwQN/icon.jpg"
+      padding="0"
+      width="200px"
+      height="140px" 
+      alt="download-the-app"
+      >
+
+    </mj-column>
+    <mj-column>
+      <mj-image
+      href="https://www.forever21.com/?utm_content=emailfooter_appdownload&utm_source=salesforcemarketingcloud&utm_medium=email&utm_campaign=Triggered_HolidayWelcomeWNKD_T1&sfmc_j=22742&sfmc_s=59711912&sfmc_l=340&sfmc_jb=2094&sfmc_mid=515011048&sfmc_u=4571184&et_rid=59711912&utm_kxconfid=uhqci99z0&mi_u=59711912&bc_id=59711912&_branch_match_id=865954786076366586&_branch_referrer=H4sIAAAAAAAAA02PS2%2FDIBCE%2F42PsaFYCZVQLz1UqpRTpBwRgbVDDKzLI338%2BuI4rXKcmW9Gu%2Bec5%2FTctgNGuEKkZKPmeeNsmNo5okcJXlknq2nwMzhU5qVkLzWGDCGLWzogZoiPTLMwCUvUIJJykOq8rmycINswaodlZTwYW%2Fw6czO08rOyYxCHaMcRIhj5hs4a9X0Ep9HDcf%2F%2BKg%2BkSYPX8iIo3TK6iiR6viWEk7t24ol1d%2B4kaMfZKrw1oid9R0jHdqtVBOtrdccayDIu%2Bd%2FSctP0Vd8dqlvOH9py%2FtM13tbOP3TS8qHzCx7dmZJTAQAA"
+      src="https://i.postimg.cc/28tg09y8/icon2.jpg"
+      padding="0"
+      width="200px"
+      height="140px"
+     alt="find-a-store"
+      >
+
+    </mj-column>
+    </mj-group>
+    </mj-section>
+    <!--second icon box-->
+
+    <mj-section padding="0"css-class="icon-table">
+    <mj-group>
+    <mj-column>
+      <mj-image
+      href="https://www.forever21.com/?utm_content=emailfooter_appdownload&utm_source=salesforcemarketingcloud&utm_medium=email&utm_campaign=Triggered_HolidayWelcomeWNKD_T1&sfmc_j=22742&sfmc_s=59711912&sfmc_l=340&sfmc_jb=2094&sfmc_mid=515011048&sfmc_u=4571184&et_rid=59711912&utm_kxconfid=uhqci99z0&mi_u=59711912&bc_id=59711912&_branch_match_id=865954786076366586&_branch_referrer=H4sIAAAAAAAAA02PS2%2FDIBCE%2F42PsaFYCZVQLz1UqpRTpBwRgbVDDKzLI338%2BuI4rXKcmW9Gu%2Bec5%2FTctgNGuEKkZKPmeeNsmNo5okcJXlknq2nwMzhU5qVkLzWGDCGLWzogZoiPTLMwCUvUIJJykOq8rmycINswaodlZTwYW%2Fw6czO08rOyYxCHaMcRIhj5hs4a9X0Ep9HDcf%2F%2BKg%2BkSYPX8iIo3TK6iiR6viWEk7t24ol1d%2B4kaMfZKrw1oid9R0jHdqtVBOtrdccayDIu%2Bd%2FSctP0Vd8dqlvOH9py%2FtM13tbOP3TS8qHzCx7dmZJTAQAA"
+      src="https://i.postimg.cc/N0qScyR3/icon3.jpg"
+      padding="0"
+      width="200px"
+      height="140px" 
+      alt="shop-now-pay-later-text"
+      >
+
+    </mj-column>
+    <mj-column>
+      <mj-image
+      href="https://www.forever21.com/?utm_content=emailfooter_appdownload&utm_source=salesforcemarketingcloud&utm_medium=email&utm_campaign=Triggered_HolidayWelcomeWNKD_T1&sfmc_j=22742&sfmc_s=59711912&sfmc_l=340&sfmc_jb=2094&sfmc_mid=515011048&sfmc_u=4571184&et_rid=59711912&utm_kxconfid=uhqci99z0&mi_u=59711912&bc_id=59711912&_branch_match_id=865954786076366586&_branch_referrer=H4sIAAAAAAAAA02PS2%2FDIBCE%2F42PsaFYCZVQLz1UqpRTpBwRgbVDDKzLI338%2BuI4rXKcmW9Gu%2Bec5%2FTctgNGuEKkZKPmeeNsmNo5okcJXlknq2nwMzhU5qVkLzWGDCGLWzogZoiPTLMwCUvUIJJykOq8rmycINswaodlZTwYW%2Fw6czO08rOyYxCHaMcRIhj5hs4a9X0Ep9HDcf%2F%2BKg%2BkSYPX8iIo3TK6iiR6viWEk7t24ol1d%2B4kaMfZKrw1oid9R0jHdqtVBOtrdccayDIu%2Bd%2FSctP0Vd8dqlvOH9py%2FtM13tbOP3TS8qHzCx7dmZJTAQAA"
+      src="https://i.postimg.cc/436MNJ5m/icon4.jpg"
+      padding="0"
+      width="200px"
+      height="140px" 
+      alt="message-icon-logo"
+      >
+
+    </mj-column>
+    <mj-column>
+      <mj-image
+      href="https://www.forever21.com/?utm_content=emailfooter_appdownload&utm_source=salesforcemarketingcloud&utm_medium=email&utm_campaign=Triggered_HolidayWelcomeWNKD_T1&sfmc_j=22742&sfmc_s=59711912&sfmc_l=340&sfmc_jb=2094&sfmc_mid=515011048&sfmc_u=4571184&et_rid=59711912&utm_kxconfid=uhqci99z0&mi_u=59711912&bc_id=59711912&_branch_match_id=865954786076366586&_branch_referrer=H4sIAAAAAAAAA02PS2%2FDIBCE%2F42PsaFYCZVQLz1UqpRTpBwRgbVDDKzLI338%2BuI4rXKcmW9Gu%2Bec5%2FTctgNGuEKkZKPmeeNsmNo5okcJXlknq2nwMzhU5qVkLzWGDCGLWzogZoiPTLMwCUvUIJJykOq8rmycINswaodlZTwYW%2Fw6czO08rOyYxCHaMcRIhj5hs4a9X0Ep9HDcf%2F%2BKg%2BkSYPX8iIo3TK6iiR6viWEk7t24ol1d%2B4kaMfZKrw1oid9R0jHdqtVBOtrdccayDIu%2Bd%2FSctP0Vd8dqlvOH9py%2FtM13tbOP3TS8qHzCx7dmZJTAQAA"
+      src="https://i.postimg.cc/C1w2RWPJ/icon5.jpg"
+      padding="0"
+      width="190px"
+      height="140px" 
+      alt="forever-21-credit-card-icon"
+      >
+
+    </mj-column>
+    </mj-group>
+    </mj-section>
+    <!--end of icon image-->
+
+
+    <mj-raw>
+  <!--footer-->
+</mj-raw>
+<mj-wrapper css-class="footer" padding="0 70px" padding-top="30px">
+  <mj-section padding="0">
+    <mj-group css-class="icon-size">
+      <mj-column padding="0">
+        <mj-image
+          padding="0 5px"
+          href="https://facebook.com/shopify"
+          src="https://i.postimg.cc/d19znqkz/fb.png"
+          width="27px"
+          height="27px"
+          alt="facebook-icon"
+        />
+      </mj-column>
+      <mj-column padding="0">
+        <mj-image
+          padding="0 5px"
+          href="https://twitter.com/shopify"
+          src="https://i.postimg.cc/PJxF41kw/insta.png"
+          width="27px"
+          height="27px"
+          alt="instagram-icon"
+        />
+      </mj-column>
+
+      <mj-column padding="0">
+        <mj-image
+          padding="0 5px"
+          href="https://facebook.com/shopify"
+          src="https://i.postimg.cc/CMQv0Bgc/twitter.png"
+          width="27px"
+          height="27px"
+          alt="twitter-icon"
+        />
+      </mj-column>
+
+      <mj-column padding="0">
+        <mj-image
+          padding="0 5px"
+          href="https://facebook.com/shopify"
+          src="https://i.postimg.cc/mryXWmL9/pin.png"
+          width="27px"
+          height="27px"
+          alt="pinterest-icon"
+        />
+      </mj-column>
+
+      <mj-column padding="0">
+        <mj-image
+          padding="0 5px"
+          href="https://facebook.com/shopify"
+          src="https://i.postimg.cc/1tRWmDXj/tiktok.png"
+          width="27px"
+          height="27px"
+          alt="tiktok-icon"
+        />
+      </mj-column>
+
+      <mj-column padding="0">
+        <mj-image
+          padding="0 5px"
+          href="https://pinterest.com/shopify"
+          src="https://i.postimg.cc/kGzwvZc0/ytt.png"
+          width="27px"
+          height="27px"
+          alt="youtube-icon"
+        />
+      </mj-column>
+    </mj-group>
+  </mj-section>
+  </mj-wrapper>
+  <!--end of footer-->
+
+  <!--line-->
+  
+
+<mj-section padding="0" background-color="#ffffff" 
+padding-top="35px" padding-bottom="12px">
+  <mj-column width="100%">
+    <mj-divider
+      border-width="2px"
+      padding-left="0"
+      padding-right="0"
+      border-style="solid"
+      padding-bottom="0"
+      border-color="#4a4a4a"
+      
+    />
+  </mj-column>
+</mj-section>
+    <!--start of paragraph-->
+
+    <mj-section padding-top="0" padding-bottom="0">
+    <mj-column>
+    <mj-text font-family="Arial, Helvetica, sans-serif;"
+     font-size="9px"
+     line-height="12px"
+     padding="10px 0 0"
+     >
+    <b>FREE STANDARD SHIPPING ON ORDERS $50+ </b> Receive free 
+    standard shipping with a minimum purchase of $50 at  
+    <a href="https://www.forever21.com/?utm_content=content_FreeShippingDisclaimer&utm_source=salesforcemarketingcloud&utm_medium=email&utm_campaign=Triggered_HolidayWelcomeWNKD_T1&sfmc_j=22742&sfmc_s=59711912&sfmc_l=340&sfmc_jb=2094&sfmc_mid=515011048&sfmc_u=4571195&et_rid=59711912&utm_kxconfid=uhqci99z0&mi_u=59711912&bc_id=59711912" 
+    class="link-color">forever21.com</a> . Offer valid online only. Eligible 
+    customers must select Standard Shipping during checkout 
+    in order to receive free standard shipping. Minimum 
+    purchase must be met in a single transaction after any 
+    applicable discounts. Not valid on purchases of gift cards 
+    or applicable taxes. No adjustments on previous purchases. 
+    Valid on standard U.S. ground shipping in the 48 
+    continental U.S. states only. Not valid on international 
+    shipments or to Alaska, Hawaii, U.S. territories, P.O. 
+    Boxes, and APO/FPO addresses. If you choose another 
+    shipping option, additional charges will apply. Offer is nontransferable 
+    and is not redeemed for cash or cash equivalent. Forever 21 reserves the 
+    right to modify or cancel this promotion at any time without notice.
+    </mj-text>
+
+
+    <mj-text font-family="Arial, Helvetica, sans-serif;"
+     font-size="9px"
+     line-height="12px"
+     padding="10px 0 0"
+     >
+    <b>WELCOME 20% OFF $50+ PURCHASE:</b> Receive 20% off your next purchase of $50 or 
+    more in one single transaction before taxes. Offer valid online/in-app and 
+    in-store at participating Forever 21 locations. Must show the cashier this email 
+    at checkout to redeem this offer. Unique promo code expires 30 days upon receipt 
+    of email offer. Discount code is non-transferable. One-time use only. Can be 
+    combined with any other offers or promotions. Excludes gift cards. Discount not 
+    applicable to taxes, shipping or handling charges. In-store and online/in-app 
+    prices may vary. Applies to new purchases only. Forever 21 reserves the right to 
+    modify or cancel this promotion at any time without notice.
+    </mj-text>
+
+    </mj-column>
+    </mj-section>
+    <!--end of paragraph-->
+    
+    <!--line-->
+    <mj-section padding="0" background-color="#ffffff" padding-top="20px">
+      <mj-column width="100%">
+        <mj-divider border-width="2px" padding-left="0" padding-right="0" padding="0"
+        border-style="solid" padding-top="0"  border-color="#4a4a4a" border-color="#000" />
+      </mj-column>
+    </mj-section>    
+<!--line end-->
+
+   <mj-section padding-top="0" padding-bottom="20px">
+    <mj-column>
+    <mj-text font-family="Arial, Helvetica, sans-serif;"
+     font-size="11px"
+     line-height="13px"
+     padding="10px 0 0"
+     align="center"
+     >
+    <b>This email may be considered an advertising or promotional message.</b> You received 
+    this message because you've registered or accepted our invitation to receive emails 
+    from Forever 21, or you've made a purchase from Forever21.com. If you no longer wish 
+    to receive these emails, unsubscribe <a href="https://cld.i.forever21.com/forever21_email_preferences?qs=42ff4d8aaf0941c65ba9aa87f2501cdde7f22962d743469a891064f72aaec1fb36ea432407828746cffa5f0b8939deb12aef131ca9fd60cc&utm_source=salesforcemarketingcloud&utm_medium=email&utm_campaign=Triggered_HolidayWelcomeWNKD_T1&sfmc_j=22742&sfmc_s=59711912&sfmc_l=340&sfmc_jb=2094&sfmc_mid=515011048&sfmc_u=4571196&et_rid=59711912&utm_kxconfid=uhqci99z0&mi_u=59711912&bc_id=59711912" 
+    text-decoration="underline" class="color-here">here.</a>
+    </mj-text>
+
+
+    <mj-text font-family="Arial, Helvetica, sans-serif;"
+     font-size="11px"
+     line-height="13px"
+     padding="10px 0 0"
+     align="center"
+     padding-top="15px"
+     >
+    <b>Please do not reply to this email.</b> Replies to this address cannot be serviced. To 
+    ensure inbox delivery, please add <b><a href="https://mail.yahoo.com/d/compose/4801251751" 
+    class="color-link" text-decoration="none">
+    Forever21@i.forever21.com</a> </b>to your address book.
+    </mj-text>
+    <mj-text font-family="Arial, Helvetica, sans-serif;"
+     font-size="11px"
+     line-height="13px"
+     padding="10px 0 0"
+     align="center"
+     padding-top="15px"
+     >
+    Credit card offers are subject to credit approval.
+
+    </mj-text>
+    <mj-text font-family="Arial, Helvetica, sans-serif;"
+     font-size="11px"
+     line-height="13px"
+     padding="10px 0 0"
+     align="center"
+     padding-top="15px"
+     >
+    Forever 21 Credit Card Accounts are issued by Comenity Capital Bank.
+
+    </mj-text>
+    <mj-text font-family="Arial, Helvetica, sans-serif;"
+     font-size="11px"
+     line-height="13px"
+     padding="10px 0 0"
+     align="center"
+     padding-top="15px"
+     >
+    Forever 21 Visa® Credit Card Accounts are issued by Comenity Capital Bank pursuant 
+    to a license from Visa U.S.A. Inc. Visa is a registered trademark of Visa 
+    International Service Association and used under license.
+
+    </mj-text>
+    <mj-text font-family="Arial, Helvetica, sans-serif;"
+     font-size="11px"
+     line-height="13px"
+     padding="10px 0 0"
+     align="center"
+     padding-top="15px"
+     >
+    <b> <a href="#" class="color-link">Unsubscribe | Manage Preferences</a> </b>
+    </mj-text>
+
+    <mj-text font-family="Arial, Helvetica, sans-serif;"
+     font-size="11px"
+     line-height="13px"
+     padding="10px 0 0"
+     align="center"
+     padding-top="15px"
+     >
+    <b> <a href="https://www.forever21.com/us/privacypolicy.html?utm_source=salesforcemarketingcloud&utm_medium=email&utm_campaign=Triggered_HolidayWelcomeWNKD_T1&sfmc_j=22742&sfmc_s=59711912&sfmc_l=340&sfmc_jb=2094&sfmc_mid=515011048&sfmc_u=4571197&et_rid=59711912&utm_kxconfid=uhqci99z0&mi_u=59711912&bc_id=59711912" 
+    class="color-link">Privacy Policy</a> | 
+    <a href="https://www.forever21.com/us/privacypolicy.html?utm_source=salesforcemarketingcloud&utm_medium=email&utm_campaign=Triggered_HolidayWelcomeWNKD_T1&sfmc_j=22742&sfmc_s=59711912&sfmc_l=340&sfmc_jb=2094&sfmc_mid=515011048&sfmc_u=4571197&et_rid=59711912&utm_kxconfid=uhqci99z0&mi_u=59711912&bc_id=59711912"
+    class="color-link">
+    Contact Us</a> | <a href="https://www.forever21.com/us/privacypolicy.html?utm_source=salesforcemarketingcloud&utm_medium=email&utm_campaign=Triggered_HolidayWelcomeWNKD_T1&sfmc_j=22742&sfmc_s=59711912&sfmc_l=340&sfmc_jb=2094&sfmc_mid=515011048&sfmc_u=4571197&et_rid=59711912&utm_kxconfid=uhqci99z0&mi_u=59711912&bc_id=59711912"
+    class="color-link"->
+    View in Browser</a> </b>
+    </mj-text>
+
+    <mj-text font-family="Arial, Helvetica, sans-serif;"
+     font-size="11px"
+     line-height="13px"
+     padding="10px 0 0"
+     align="center"
+     padding-top="15px"
+     padding-bottom="30px"
+     >
+    F21 OpCo, LLC  | 110 E. 9th Street Suite C910 Los Angeles, CA 90079
+    </mj-text>
+
+    </mj-column>
+    </mj-section>
+
+      
+
+    
+  </mj-body>
+</mjml>
